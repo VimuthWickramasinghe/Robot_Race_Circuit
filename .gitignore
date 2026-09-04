@@ -1,0 +1,15 @@
+# KiCad backup and temporary files
+*.bak
+*.bck
+*~
+_autosave-*
+*.tmp
+*-bak
+*.kicad_prl
+
+# Work directories
+/fp-info-cache
+
+# Manufacturing outputs (optional - usually better to regenerate)
+*.gbr
+*.drl
