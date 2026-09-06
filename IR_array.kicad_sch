@@ -795,16 +795,22 @@
 		)
 	)
 	(junction
-		(at 121.92 49.53)
+		(at 43.18 88.9)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "08c05fe3-7ca9-47e1-9e41-cc010cc3f9c4")
+		(uuid "006e66a4-7541-40d9-9f4a-2ac052598b25")
 	)
 	(junction
 		(at 193.04 104.14)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "16543faf-6b59-4785-b056-7d5f34e97bec")
+	)
+	(junction
+		(at 168.91 50.8)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "23eae610-14f7-4239-8cd6-2324dd9dbb05")
 	)
 	(junction
 		(at 146.05 63.5)
@@ -825,22 +831,10 @@
 		(uuid "470e5a27-64db-4de8-bd12-dee058c21257")
 	)
 	(junction
-		(at 43.18 88.9)
+		(at 82.55 88.9)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "55b0955f-2ed4-4b56-9aef-6667eb1f97af")
-	)
-	(junction
-		(at 82.55 49.53)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "6b0b0c05-fe41-4a3a-9eee-5d36a1fee4dd")
-	)
-	(junction
-		(at 168.91 90.17)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "837d42f7-e3cf-42e3-8164-8f19ddbd3963")
+		(uuid "70d2d05c-83df-4ba0-abfd-6a5a8c2f3cdf")
 	)
 	(junction
 		(at 92.71 63.5)
@@ -879,16 +873,22 @@
 		(uuid "9eac97fa-99be-4c72-a36c-865051592d61")
 	)
 	(junction
+		(at 168.91 90.17)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "9f8178ee-324d-40f5-b8fb-f99b12afd734")
+	)
+	(junction
 		(at 146.05 102.87)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "a18ec3fb-a156-405b-8a51-5ad5997df87b")
 	)
 	(junction
-		(at 168.91 50.8)
+		(at 121.92 88.9)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "ac567ead-cc36-4bd4-a1e1-c0482ff53e03")
+		(uuid "a8b650ff-b0f8-4efb-9992-02e0b5ac63d3")
 	)
 	(junction
 		(at 179.07 104.14)
@@ -903,12 +903,6 @@
 		(uuid "b3a49eeb-a8f0-44b9-b066-25b777911819")
 	)
 	(junction
-		(at 121.92 88.9)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "b420c067-7507-41ae-9c83-4768eb8a2c70")
-	)
-	(junction
 		(at 92.71 102.87)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -921,16 +915,22 @@
 		(uuid "d3018386-cbae-4d7e-9967-b07aed0eb2cd")
 	)
 	(junction
+		(at 121.92 49.53)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "d752b711-84fc-4f65-bd2d-a55f21edcb08")
+	)
+	(junction
 		(at 106.68 63.5)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "e0cd1992-da68-49df-a930-90e899616e19")
 	)
 	(junction
-		(at 82.55 88.9)
+		(at 82.55 49.53)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "e54ed159-3bf8-4194-858f-0c4e1a630d17")
+		(uuid "e9368c36-cc6b-4d97-aad5-19c082b79e95")
 	)
 	(junction
 		(at 132.08 63.5)
@@ -950,16 +950,6 @@
 	)
 	(wire
 		(pts
-			(xy 121.92 88.9) (xy 121.92 102.87)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "05cadabd-9bc9-4ccb-9a65-eab72fdfc935")
-	)
-	(wire
-		(pts
 			(xy 67.31 102.87) (xy 62.23 102.87)
 		)
 		(stroke
@@ -967,6 +957,16 @@
 			(type default)
 		)
 		(uuid "06ad31a6-7eb9-46f1-9a43-5c05e1bdb8c1")
+	)
+	(wire
+		(pts
+			(xy 121.92 88.9) (xy 121.92 102.87)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "07b48df5-9842-4a7b-a735-e5223ab6cec7")
 	)
 	(wire
 		(pts
@@ -990,7 +990,7 @@
 	)
 	(wire
 		(pts
-			(xy 82.55 88.9) (xy 82.55 102.87)
+			(xy 82.55 83.82) (xy 82.55 88.9)
 		)
 		(stroke
 			(width 0)
@@ -1017,16 +1017,6 @@
 			(type default)
 		)
 		(uuid "1ba7873a-c1cc-41b3-8ef7-1f7ceeba80ba")
-	)
-	(wire
-		(pts
-			(xy 43.18 88.9) (xy 43.18 102.87)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "1d5d6891-8758-41e5-9e3a-32a3c4b4d794")
 	)
 	(wire
 		(pts
@@ -1090,26 +1080,6 @@
 	)
 	(wire
 		(pts
-			(xy 121.92 44.45) (xy 121.92 49.53)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "2efc7ed5-f1bd-4356-b621-7ae5a3ad9bd7")
-	)
-	(wire
-		(pts
-			(xy 168.91 50.8) (xy 168.91 64.77)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "35c1d449-c3a9-49aa-a322-f5ad629217a4")
-	)
-	(wire
-		(pts
 			(xy 92.71 63.5) (xy 92.71 69.85)
 		)
 		(stroke
@@ -1130,13 +1100,13 @@
 	)
 	(wire
 		(pts
-			(xy 168.91 45.72) (xy 168.91 50.8)
+			(xy 121.92 49.53) (xy 121.92 63.5)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "3ffcdf8d-f272-47fb-81de-e584f1d393d3")
+		(uuid "3acd13df-c698-4b7c-ab9c-ee63b45b1291")
 	)
 	(wire
 		(pts
@@ -1157,16 +1127,6 @@
 			(type default)
 		)
 		(uuid "4627345f-3a77-4e6c-be48-c2f31207db93")
-	)
-	(wire
-		(pts
-			(xy 168.91 90.17) (xy 168.91 104.14)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "46a6b932-110e-44b5-acbd-4a72f7e8a67e")
 	)
 	(wire
 		(pts
@@ -1270,16 +1230,6 @@
 	)
 	(wire
 		(pts
-			(xy 82.55 49.53) (xy 82.55 63.5)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "6557c7ef-2695-441c-8032-cb2332caf8fd")
-	)
-	(wire
-		(pts
 			(xy 176.53 64.77) (xy 180.34 64.77)
 		)
 		(stroke
@@ -1290,6 +1240,16 @@
 	)
 	(wire
 		(pts
+			(xy 82.55 49.53) (xy 82.55 63.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "735f7b78-c7d2-4774-ac12-192f34175013")
+	)
+	(wire
+		(pts
 			(xy 193.04 50.8) (xy 187.96 50.8)
 		)
 		(stroke
@@ -1297,6 +1257,16 @@
 			(type default)
 		)
 		(uuid "7739dfa1-4138-4c39-b925-94e22ed82cae")
+	)
+	(wire
+		(pts
+			(xy 82.55 88.9) (xy 82.55 102.87)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7d475250-93e7-43ab-9623-3a0b046a6820")
 	)
 	(wire
 		(pts
@@ -1460,7 +1430,7 @@
 	)
 	(wire
 		(pts
-			(xy 121.92 49.53) (xy 121.92 63.5)
+			(xy 121.92 44.45) (xy 121.92 49.53)
 		)
 		(stroke
 			(width 0)
@@ -1550,6 +1520,16 @@
 	)
 	(wire
 		(pts
+			(xy 43.18 88.9) (xy 43.18 102.87)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c6ad564a-f289-4b0b-b6ce-657a807cfe95")
+	)
+	(wire
+		(pts
 			(xy 146.05 67.31) (xy 146.05 63.5)
 		)
 		(stroke
@@ -1560,7 +1540,7 @@
 	)
 	(wire
 		(pts
-			(xy 168.91 85.09) (xy 168.91 90.17)
+			(xy 168.91 85.09) (xy 168.91 104.14)
 		)
 		(stroke
 			(width 0)
@@ -1580,13 +1560,13 @@
 	)
 	(wire
 		(pts
-			(xy 82.55 83.82) (xy 82.55 88.9)
+			(xy 168.91 45.72) (xy 168.91 64.77)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "ddc7c380-8ec2-463c-871c-8c6fbafb16a7")
+		(uuid "de765cb0-2690-4a97-b668-f76521668793")
 	)
 	(wire
 		(pts
@@ -1678,7 +1658,29 @@
 			)
 			(justify left)
 		)
-		(uuid "3ed23402-56a0-4ba7-99bd-1144bb88c405")
+		(uuid "1ec8c6c7-49ff-4eff-9b5e-8e2f538da2f4")
+	)
+	(hierarchical_label "A3"
+		(shape input)
+		(at 132.08 69.85 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "20c206d9-aa33-47a3-ab52-20c355f11226")
+	)
+	(hierarchical_label "A2"
+		(shape input)
+		(at 92.71 69.85 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "363e9a49-43e2-4766-94ae-b015e9c712a0")
 	)
 	(hierarchical_label "A1"
 		(shape input)
@@ -1691,28 +1693,6 @@
 		)
 		(uuid "41d62265-409c-43a8-864d-b03f3895749d")
 	)
-	(hierarchical_label "A6"
-		(shape input)
-		(at 92.71 109.22 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "5a1de785-647e-49c2-a5c0-fe7fe8734827")
-	)
-	(hierarchical_label "A3"
-		(shape input)
-		(at 132.08 69.85 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "64e6c8c0-bc3e-480b-88c5-b8bf31cceb39")
-	)
 	(hierarchical_label "A5"
 		(shape input)
 		(at 53.34 109.22 0)
@@ -1724,16 +1704,16 @@
 		)
 		(uuid "715b6fac-a276-4d19-8db8-88fae6f8bf80")
 	)
-	(hierarchical_label "A2"
+	(hierarchical_label "A6"
 		(shape input)
-		(at 92.71 69.85 0)
+		(at 92.71 109.22 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify left)
 		)
-		(uuid "811db1a4-97b4-47d6-a4e0-796e08a6cf5d")
+		(uuid "cf47710c-afd3-4833-b5e6-9569498395ae")
 	)
 	(hierarchical_label "A7"
 		(shape input)
@@ -1903,8 +1883,8 @@
 		)
 	)
 	(symbol
-		(lib_id "LED:IR204A")
-		(at 57.15 88.9 180)
+		(lib_id "Device:D_Photo")
+		(at 135.89 63.5 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -1912,10 +1892,9 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "0d2f594c-7496-4cef-ae08-1096a7366674")
-		(property "Reference" "D9"
-			(at 58.293 82.55 0)
+		(uuid "0eecf2a8-505a-4f15-9993-97f842b61aa4")
+		(property "Reference" "D10"
+			(at 136.8425 57.15 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -1924,8 +1903,8 @@
 				)
 			)
 		)
-		(property "Value" "IR204A"
-			(at 58.293 85.09 0)
+		(property "Value" "D_Photo"
+			(at 136.8425 59.69 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -1934,88 +1913,8 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_THT:LED_D3.0mm_IRBlack"
-			(at 57.15 93.345 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" "http://www.everlight.com/file/ProductFile/IR204-A.pdf"
-			(at 58.42 88.9 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Infrared LED , 3mm LED package"
-			(at 57.15 88.9 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "ab8077db-cac3-4c7d-bea1-8d0369f896e2")
-		)
-		(pin "2"
-			(uuid "a056c9de-e2f3-4dd3-9b75-82266ec7b50f")
-		)
-		(instances
-			(project "VacumBlocks"
-				(path "/d5280a4e-7ab2-4f2c-968f-0131a4828335/643b316e-5f79-48c8-97a9-e12cba8f5fc9"
-					(reference "D9")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R")
-		(at 172.72 50.8 90)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "10e4aba4-2717-432d-956a-6b41872cabf1")
-		(property "Reference" "R7"
-			(at 172.72 44.45 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "R"
-			(at 172.72 46.99 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Package_DIP:DIP-8_W7.62mm"
-			(at 172.72 52.578 90)
+		(property "Footprint" "LED_THT:LED_D5.0mm_IRBlack"
+			(at 136.652 74.168 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2026,7 +1925,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 172.72 50.8 0)
+			(at 137.16 63.5 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2036,8 +1935,8 @@
 				)
 			)
 		)
-		(property "Description" "Resistor"
-			(at 172.72 50.8 0)
+		(property "Description" "Photodiode"
+			(at 135.89 63.5 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2048,15 +1947,15 @@
 			)
 		)
 		(pin "2"
-			(uuid "9d4bbc46-0359-4e58-b98f-76868e97fd56")
+			(uuid "87e0c0ed-cf58-480a-a281-00dd1536b4d7")
 		)
 		(pin "1"
-			(uuid "72f0111b-71d9-4898-88ac-0716b45d9ac2")
+			(uuid "08160811-4845-42cb-b4e0-f721f70fc568")
 		)
 		(instances
 			(project "VacumBlocks"
 				(path "/d5280a4e-7ab2-4f2c-968f-0131a4828335/643b316e-5f79-48c8-97a9-e12cba8f5fc9"
-					(reference "R7")
+					(reference "D10")
 					(unit 1)
 				)
 			)
@@ -2064,7 +1963,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 86.36 102.87 90)
+		(at 172.72 64.77 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -2073,9 +1972,9 @@
 		(in_pos_files yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "1151d9bc-b757-4341-9437-a4084908f591")
-		(property "Reference" "R12"
-			(at 86.36 96.52 90)
+		(uuid "11c62eb6-bead-4d73-9133-b65506e74d53")
+		(property "Reference" "R14"
+			(at 172.72 58.42 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2084,8 +1983,8 @@
 				)
 			)
 		)
-		(property "Value" "R"
-			(at 86.36 99.06 90)
+		(property "Value" "10k"
+			(at 172.72 60.96 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2094,8 +1993,8 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_DIP:DIP-8_W7.62mm"
-			(at 86.36 104.648 90)
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal"
+			(at 172.72 66.548 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2106,7 +2005,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 86.36 102.87 0)
+			(at 172.72 64.77 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2117,7 +2016,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 86.36 102.87 0)
+			(at 172.72 64.77 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2128,95 +2027,15 @@
 			)
 		)
 		(pin "2"
-			(uuid "456e79e4-00ba-4c58-abfc-d5499e04b3e6")
+			(uuid "bc739297-8dd4-4ea8-9657-1c4c909fed5c")
 		)
 		(pin "1"
-			(uuid "6abf9729-2ff3-4146-ba69-5d20d3a79b4e")
+			(uuid "a46c38ce-bf20-4137-b8f7-366532a1b949")
 		)
 		(instances
 			(project "VacumBlocks"
 				(path "/d5280a4e-7ab2-4f2c-968f-0131a4828335/643b316e-5f79-48c8-97a9-e12cba8f5fc9"
-					(reference "R12")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R")
-		(at 46.99 63.5 90)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "12f65fcc-5ff1-49f6-8c5d-698e56603709")
-		(property "Reference" "R2"
-			(at 46.99 57.15 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "R"
-			(at 46.99 59.69 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Package_DIP:DIP-8_W7.62mm"
-			(at 46.99 65.278 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 46.99 63.5 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Resistor"
-			(at 46.99 63.5 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "5c3e60bd-6669-4fb7-9ec1-0b63fce608c8")
-		)
-		(pin "1"
-			(uuid "54fe5711-41df-413a-a80e-6cc4bbefd519")
-		)
-		(instances
-			(project "VacumBlocks"
-				(path "/d5280a4e-7ab2-4f2c-968f-0131a4828335/643b316e-5f79-48c8-97a9-e12cba8f5fc9"
-					(reference "R2")
+					(reference "R14")
 					(unit 1)
 				)
 			)
@@ -2295,166 +2114,6 @@
 			(project "VacumBlocks"
 				(path "/d5280a4e-7ab2-4f2c-968f-0131a4828335/643b316e-5f79-48c8-97a9-e12cba8f5fc9"
 					(reference "#PWR014")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "LED:IR204A")
-		(at 135.89 88.9 180)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "1f1edb20-6cba-4108-ba73-e1c7acf5439b")
-		(property "Reference" "D13"
-			(at 137.033 82.55 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "IR204A"
-			(at 137.033 85.09 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "LED_THT:LED_D3.0mm_IRBlack"
-			(at 135.89 93.345 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" "http://www.everlight.com/file/ProductFile/IR204-A.pdf"
-			(at 137.16 88.9 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Infrared LED , 3mm LED package"
-			(at 135.89 88.9 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "a582d4d7-8bfa-4968-8ece-01ecf6974391")
-		)
-		(pin "2"
-			(uuid "c61d3c41-b0a7-4ce5-bc38-121fe4471314")
-		)
-		(instances
-			(project "VacumBlocks"
-				(path "/d5280a4e-7ab2-4f2c-968f-0131a4828335/643b316e-5f79-48c8-97a9-e12cba8f5fc9"
-					(reference "D13")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:D_Photo")
-		(at 135.89 63.5 180)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "21cef436-172c-4654-b89e-800f7fc9b372")
-		(property "Reference" "D6"
-			(at 136.8425 57.15 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "D_Photo"
-			(at 136.8425 59.69 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "OptoDevice:Kodenshi_LG206D"
-			(at 137.16 63.5 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 137.16 63.5 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Photodiode"
-			(at 135.89 63.5 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "f7cc16e8-0cec-4c1a-bd37-cca1085f5661")
-		)
-		(pin "1"
-			(uuid "8c3f2543-3ce8-4796-a09f-e30747e62f46")
-		)
-		(instances
-			(project "VacumBlocks"
-				(path "/d5280a4e-7ab2-4f2c-968f-0131a4828335/643b316e-5f79-48c8-97a9-e12cba8f5fc9"
-					(reference "D6")
 					(unit 1)
 				)
 			)
@@ -2617,6 +2276,86 @@
 		)
 	)
 	(symbol
+		(lib_id "LED:IR204A")
+		(at 182.88 50.8 180)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "343bf3c8-b66f-4eb6-a18b-d8d5f9f3bd81")
+		(property "Reference" "D13"
+			(at 184.023 44.45 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "IR204A"
+			(at 184.023 46.99 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "LED_THT:LED_D5.0mm"
+			(at 182.88 55.245 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "http://www.everlight.com/file/ProductFile/IR204-A.pdf"
+			(at 184.15 50.8 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Infrared LED , 3mm LED package"
+			(at 182.88 50.8 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "4df12c10-486f-41fd-9b81-fc6a4f8b8d79")
+		)
+		(pin "2"
+			(uuid "bafe3d39-b39d-42ad-b4c7-078a814cbec2")
+		)
+		(instances
+			(project "VacumBlocks"
+				(path "/d5280a4e-7ab2-4f2c-968f-0131a4828335/643b316e-5f79-48c8-97a9-e12cba8f5fc9"
+					(reference "D13")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GND")
 		(at 146.05 67.31 0)
 		(unit 1)
@@ -2695,8 +2434,8 @@
 		)
 	)
 	(symbol
-		(lib_id "LED:IR204A")
-		(at 182.88 50.8 180)
+		(lib_id "Device:R")
+		(at 125.73 63.5 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -2705,9 +2444,9 @@
 		(in_pos_files yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "3b3117a4-853e-4a96-9d2a-75eecc0bd5ef")
-		(property "Reference" "D7"
-			(at 184.023 44.45 0)
+		(uuid "3c43eedf-0ffb-42ca-8d93-6fcd43a888eb")
+		(property "Reference" "R10"
+			(at 125.73 57.15 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2716,8 +2455,8 @@
 				)
 			)
 		)
-		(property "Value" "IR204A"
-			(at 184.023 46.99 0)
+		(property "Value" "10k"
+			(at 125.73 59.69 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2726,8 +2465,8 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_THT:LED_D3.0mm_IRBlack"
-			(at 182.88 55.245 0)
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal"
+			(at 125.73 65.278 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2737,8 +2476,8 @@
 				)
 			)
 		)
-		(property "Datasheet" "http://www.everlight.com/file/ProductFile/IR204-A.pdf"
-			(at 184.15 50.8 0)
+		(property "Datasheet" ""
+			(at 125.73 63.5 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2748,8 +2487,8 @@
 				)
 			)
 		)
-		(property "Description" "Infrared LED , 3mm LED package"
-			(at 182.88 50.8 0)
+		(property "Description" "Resistor"
+			(at 125.73 63.5 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2758,97 +2497,17 @@
 					(size 1.27 1.27)
 				)
 			)
-		)
-		(pin "1"
-			(uuid "711d1655-7af6-403c-8182-785116120cc7")
 		)
 		(pin "2"
-			(uuid "6ba31466-43b4-4902-8ace-eb6018538419")
+			(uuid "62794686-9a3e-413d-86bf-3bb5bccf5cd1")
+		)
+		(pin "1"
+			(uuid "a2259c16-5cd5-49e7-9480-40cd79dc04fa")
 		)
 		(instances
 			(project "VacumBlocks"
 				(path "/d5280a4e-7ab2-4f2c-968f-0131a4828335/643b316e-5f79-48c8-97a9-e12cba8f5fc9"
-					(reference "D7")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "LED:IR204A")
-		(at 96.52 88.9 180)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "3d19adac-1c75-4d61-90c4-eadee2dfce2d")
-		(property "Reference" "D11"
-			(at 97.663 82.55 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "IR204A"
-			(at 97.663 85.09 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "LED_THT:LED_D3.0mm_IRBlack"
-			(at 96.52 93.345 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" "http://www.everlight.com/file/ProductFile/IR204-A.pdf"
-			(at 97.79 88.9 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Infrared LED , 3mm LED package"
-			(at 96.52 88.9 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "12586662-230c-4b0e-b49e-cf3ce17e5fd1")
-		)
-		(pin "2"
-			(uuid "395edae0-9d4a-4127-90fc-97153f17187b")
-		)
-		(instances
-			(project "VacumBlocks"
-				(path "/d5280a4e-7ab2-4f2c-968f-0131a4828335/643b316e-5f79-48c8-97a9-e12cba8f5fc9"
-					(reference "D11")
+					(reference "R10")
 					(unit 1)
 				)
 			)
@@ -3011,8 +2670,8 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:R")
-		(at 86.36 49.53 90)
+		(lib_id "LED:IR204A")
+		(at 135.89 49.53 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -3021,9 +2680,9 @@
 		(in_pos_files yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "4fbf57c3-b899-4d8e-83cf-89277bc2ebdb")
-		(property "Reference" "R3"
-			(at 86.36 43.18 90)
+		(uuid "43c23fd8-5ee6-4233-8396-e24107dead99")
+		(property "Reference" "D9"
+			(at 137.033 43.18 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3032,8 +2691,8 @@
 				)
 			)
 		)
-		(property "Value" "R"
-			(at 86.36 45.72 90)
+		(property "Value" "IR204A"
+			(at 137.033 45.72 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3042,8 +2701,8 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_DIP:DIP-8_W7.62mm"
-			(at 86.36 51.308 90)
+		(property "Footprint" "LED_THT:LED_D5.0mm"
+			(at 135.89 53.975 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3053,8 +2712,8 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
-			(at 86.36 49.53 0)
+		(property "Datasheet" "http://www.everlight.com/file/ProductFile/IR204-A.pdf"
+			(at 137.16 49.53 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3064,8 +2723,8 @@
 				)
 			)
 		)
-		(property "Description" "Resistor"
-			(at 86.36 49.53 0)
+		(property "Description" "Infrared LED , 3mm LED package"
+			(at 135.89 49.53 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3074,17 +2733,17 @@
 					(size 1.27 1.27)
 				)
 			)
-		)
-		(pin "2"
-			(uuid "6fccd0c4-ff09-4a31-b2c4-f9ba3863b4fd")
 		)
 		(pin "1"
-			(uuid "a8b080b5-5e98-4126-8cf0-ad561797239a")
+			(uuid "9174726d-bf1f-4d07-bed7-4e64f1929299")
+		)
+		(pin "2"
+			(uuid "b3bbbcea-5f5a-4937-b868-892cca871cbe")
 		)
 		(instances
 			(project "VacumBlocks"
 				(path "/d5280a4e-7ab2-4f2c-968f-0131a4828335/643b316e-5f79-48c8-97a9-e12cba8f5fc9"
-					(reference "R3")
+					(reference "D9")
 					(unit 1)
 				)
 			)
@@ -3092,7 +2751,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 172.72 104.14 90)
+		(at 172.72 90.17 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -3101,9 +2760,9 @@
 		(in_pos_files yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "5467658c-b089-4ba2-89ae-91f1d7506c9f")
-		(property "Reference" "R16"
-			(at 172.72 97.79 90)
+		(uuid "4bcd4d72-0fbf-45be-9808-b3afd945712d")
+		(property "Reference" "R15"
+			(at 172.72 83.82 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3112,8 +2771,8 @@
 				)
 			)
 		)
-		(property "Value" "R"
-			(at 172.72 100.33 90)
+		(property "Value" "10k"
+			(at 172.72 86.36 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3122,8 +2781,8 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_DIP:DIP-8_W7.62mm"
-			(at 172.72 105.918 90)
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal"
+			(at 172.72 91.948 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3134,7 +2793,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 172.72 104.14 0)
+			(at 172.72 90.17 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3145,7 +2804,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 172.72 104.14 0)
+			(at 172.72 90.17 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3156,15 +2815,94 @@
 			)
 		)
 		(pin "2"
-			(uuid "da9ebfa8-f766-4c8b-ad80-2f74e95690c1")
+			(uuid "af0602d5-0a8c-4990-9982-59281e3c8958")
 		)
 		(pin "1"
-			(uuid "45af18e1-0dff-4638-8d40-144541a18251")
+			(uuid "424d7129-ccb8-4955-822c-5c8467a90776")
 		)
 		(instances
 			(project "VacumBlocks"
 				(path "/d5280a4e-7ab2-4f2c-968f-0131a4828335/643b316e-5f79-48c8-97a9-e12cba8f5fc9"
-					(reference "R16")
+					(reference "R15")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:D_Photo")
+		(at 96.52 63.5 180)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "4bee3fb4-b927-4d9f-9356-e78311eaea69")
+		(property "Reference" "D6"
+			(at 97.4725 57.15 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "D_Photo"
+			(at 97.4725 59.69 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "LED_THT:LED_D5.0mm_IRBlack"
+			(at 97.282 74.168 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 97.79 63.5 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Photodiode"
+			(at 96.52 63.5 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "fa48ea4d-5deb-4eca-b03b-7f7ecb3e4349")
+		)
+		(pin "1"
+			(uuid "723733e1-982d-4800-87d9-b29de0c28d3e")
+		)
+		(instances
+			(project "VacumBlocks"
+				(path "/d5280a4e-7ab2-4f2c-968f-0131a4828335/643b316e-5f79-48c8-97a9-e12cba8f5fc9"
+					(reference "D6")
 					(unit 1)
 				)
 			)
@@ -3249,166 +2987,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:R")
-		(at 46.99 102.87 90)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "59a4d942-a8a0-4dc7-888e-5a3c2402525b")
-		(property "Reference" "R10"
-			(at 46.99 96.52 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "R"
-			(at 46.99 99.06 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Package_DIP:DIP-8_W7.62mm"
-			(at 46.99 104.648 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 46.99 102.87 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Resistor"
-			(at 46.99 102.87 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "48b760c1-d2fa-4fc8-9dee-b932c7533b87")
-		)
-		(pin "1"
-			(uuid "828ad231-3d0a-40d6-9083-6361bbc5bc18")
-		)
-		(instances
-			(project "VacumBlocks"
-				(path "/d5280a4e-7ab2-4f2c-968f-0131a4828335/643b316e-5f79-48c8-97a9-e12cba8f5fc9"
-					(reference "R10")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R")
-		(at 86.36 88.9 90)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "60a855eb-4270-4b89-b241-329f9509ab67")
-		(property "Reference" "R11"
-			(at 86.36 82.55 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "R"
-			(at 86.36 85.09 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Package_DIP:DIP-8_W7.62mm"
-			(at 86.36 90.678 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 86.36 88.9 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Resistor"
-			(at 86.36 88.9 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "e145e438-c83d-4094-b85f-5c5321f594c2")
-		)
-		(pin "1"
-			(uuid "57abf975-e7d6-4bf1-9467-51a9d0ac6e66")
-		)
-		(instances
-			(project "VacumBlocks"
-				(path "/d5280a4e-7ab2-4f2c-968f-0131a4828335/643b316e-5f79-48c8-97a9-e12cba8f5fc9"
-					(reference "R11")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:GND")
 		(at 193.04 68.58 0)
 		(unit 1)
@@ -3487,88 +3065,8 @@
 		)
 	)
 	(symbol
-		(lib_id "LED:IR204A")
-		(at 96.52 49.53 180)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "64355cf1-a2da-4092-8d2c-a907716b1809")
-		(property "Reference" "D3"
-			(at 97.663 43.18 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "IR204A"
-			(at 97.663 45.72 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "LED_THT:LED_D3.0mm_IRBlack"
-			(at 96.52 53.975 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" "http://www.everlight.com/file/ProductFile/IR204-A.pdf"
-			(at 97.79 49.53 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Infrared LED , 3mm LED package"
-			(at 96.52 49.53 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "b0893bd2-76bd-43e4-adbe-ef190cbf3b28")
-		)
-		(pin "2"
-			(uuid "d3c2be27-25f3-4cfd-9214-ab7848503096")
-		)
-		(instances
-			(project "VacumBlocks"
-				(path "/d5280a4e-7ab2-4f2c-968f-0131a4828335/643b316e-5f79-48c8-97a9-e12cba8f5fc9"
-					(reference "D3")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:R")
-		(at 46.99 88.9 90)
+		(at 172.72 50.8 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -3577,9 +3075,9 @@
 		(in_pos_files yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "65d4faf3-e6f4-4d40-ad5d-3747663ab07b")
-		(property "Reference" "R9"
-			(at 46.99 82.55 90)
+		(uuid "6970ec16-9549-40b7-b78a-ebe797d7c1c3")
+		(property "Reference" "R13"
+			(at 172.72 44.45 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3588,8 +3086,8 @@
 				)
 			)
 		)
-		(property "Value" "R"
-			(at 46.99 85.09 90)
+		(property "Value" "10k"
+			(at 172.72 46.99 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3598,8 +3096,8 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_DIP:DIP-8_W7.62mm"
-			(at 46.99 90.678 90)
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal"
+			(at 172.72 52.578 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3610,7 +3108,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 46.99 88.9 0)
+			(at 172.72 50.8 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3621,7 +3119,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 46.99 88.9 0)
+			(at 172.72 50.8 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3632,15 +3130,95 @@
 			)
 		)
 		(pin "2"
-			(uuid "8ca29930-d276-485a-b694-52ba5ad04ed8")
+			(uuid "4223cbce-84f7-47fc-bda4-d845b9187f5c")
 		)
 		(pin "1"
-			(uuid "3829f9e6-b74c-4118-9ea6-a99b461208a4")
+			(uuid "38eb0462-0fa9-436d-94f0-09f2663b6945")
 		)
 		(instances
 			(project "VacumBlocks"
 				(path "/d5280a4e-7ab2-4f2c-968f-0131a4828335/643b316e-5f79-48c8-97a9-e12cba8f5fc9"
-					(reference "R9")
+					(reference "R13")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 86.36 49.53 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "6a29db80-76a4-428c-9598-21326fabed70")
+		(property "Reference" "R5"
+			(at 86.36 43.18 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "10k"
+			(at 86.36 45.72 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal"
+			(at 86.36 51.308 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 86.36 49.53 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 86.36 49.53 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "bdc5c57b-517a-4cec-a448-6d6565a46bd7")
+		)
+		(pin "1"
+			(uuid "7474e700-72c4-42bc-b58d-15f31b9af997")
+		)
+		(instances
+			(project "VacumBlocks"
+				(path "/d5280a4e-7ab2-4f2c-968f-0131a4828335/643b316e-5f79-48c8-97a9-e12cba8f5fc9"
+					(reference "R5")
 					(unit 1)
 				)
 			)
@@ -3678,7 +3256,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_THT:LED_D3.0mm_IRBlack"
+		(property "Footprint" "LED_THT:LED_D5.0mm"
 			(at 57.15 53.975 0)
 			(hide yes)
 			(show_name no)
@@ -3727,8 +3305,8 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:D_Photo")
-		(at 96.52 102.87 180)
+		(lib_id "LED:IR204A")
+		(at 96.52 49.53 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -3737,9 +3315,9 @@
 		(in_pos_files yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "70c8bc35-1007-42f0-a32d-f519224af358")
-		(property "Reference" "D12"
-			(at 97.4725 96.52 0)
+		(uuid "78904ace-5652-49f1-9bc4-89d79d031628")
+		(property "Reference" "D5"
+			(at 97.663 43.18 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3748,8 +3326,8 @@
 				)
 			)
 		)
-		(property "Value" "D_Photo"
-			(at 97.4725 99.06 0)
+		(property "Value" "IR204A"
+			(at 97.663 45.72 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3758,8 +3336,8 @@
 				)
 			)
 		)
-		(property "Footprint" "OptoDevice:Kodenshi_LG206D"
-			(at 97.79 102.87 0)
+		(property "Footprint" "LED_THT:LED_D5.0mm"
+			(at 96.52 53.975 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3769,8 +3347,8 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
-			(at 97.79 102.87 0)
+		(property "Datasheet" "http://www.everlight.com/file/ProductFile/IR204-A.pdf"
+			(at 97.79 49.53 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3780,8 +3358,8 @@
 				)
 			)
 		)
-		(property "Description" "Photodiode"
-			(at 96.52 102.87 0)
+		(property "Description" "Infrared LED , 3mm LED package"
+			(at 96.52 49.53 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3790,257 +3368,17 @@
 					(size 1.27 1.27)
 				)
 			)
-		)
-		(pin "2"
-			(uuid "41411232-1f97-4478-92a8-797e9e9961cd")
 		)
 		(pin "1"
-			(uuid "7bb5b8f8-06e8-4007-ac1a-7620708a0258")
+			(uuid "332bebdd-1d63-48d9-bb87-0ede9140f338")
+		)
+		(pin "2"
+			(uuid "6c9a785f-7893-42db-a485-7454fb95299c")
 		)
 		(instances
 			(project "VacumBlocks"
 				(path "/d5280a4e-7ab2-4f2c-968f-0131a4828335/643b316e-5f79-48c8-97a9-e12cba8f5fc9"
-					(reference "D12")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R")
-		(at 172.72 90.17 90)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "71c241e1-c8ed-48a0-8f60-44e8b44d948f")
-		(property "Reference" "R15"
-			(at 172.72 83.82 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "R"
-			(at 172.72 86.36 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Package_DIP:DIP-8_W7.62mm"
-			(at 172.72 91.948 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 172.72 90.17 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Resistor"
-			(at 172.72 90.17 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "79e87248-6ef4-4b42-869b-c76c4bde2f66")
-		)
-		(pin "1"
-			(uuid "341e2558-c40d-488a-8a6a-b18be561a6fd")
-		)
-		(instances
-			(project "VacumBlocks"
-				(path "/d5280a4e-7ab2-4f2c-968f-0131a4828335/643b316e-5f79-48c8-97a9-e12cba8f5fc9"
-					(reference "R15")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:D_Photo")
-		(at 135.89 102.87 180)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "72975884-d73a-40ab-9cf8-e6b4dd035ba8")
-		(property "Reference" "D14"
-			(at 136.8425 96.52 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "D_Photo"
-			(at 136.8425 99.06 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "OptoDevice:Kodenshi_LG206D"
-			(at 137.16 102.87 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 137.16 102.87 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Photodiode"
-			(at 135.89 102.87 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "1611e589-09a8-4f85-8a3e-0de539feff5e")
-		)
-		(pin "1"
-			(uuid "c171e242-1009-459f-8863-f12d97c86bd2")
-		)
-		(instances
-			(project "VacumBlocks"
-				(path "/d5280a4e-7ab2-4f2c-968f-0131a4828335/643b316e-5f79-48c8-97a9-e12cba8f5fc9"
-					(reference "D14")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R")
-		(at 86.36 63.5 90)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "73ead6d2-0174-4e3e-9bd3-9f033c7a0976")
-		(property "Reference" "R4"
-			(at 86.36 57.15 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "R"
-			(at 86.36 59.69 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Package_DIP:DIP-8_W7.62mm"
-			(at 86.36 65.278 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 86.36 63.5 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Resistor"
-			(at 86.36 63.5 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "4f1779a6-753b-4674-8a5e-196ebdf06504")
-		)
-		(pin "1"
-			(uuid "0b660154-52a9-49a7-a666-898d2282794e")
-		)
-		(instances
-			(project "VacumBlocks"
-				(path "/d5280a4e-7ab2-4f2c-968f-0131a4828335/643b316e-5f79-48c8-97a9-e12cba8f5fc9"
-					(reference "R4")
+					(reference "D5")
 					(unit 1)
 				)
 			)
@@ -4126,7 +3464,7 @@
 	)
 	(symbol
 		(lib_id "LED:IR204A")
-		(at 135.89 49.53 180)
+		(at 57.15 88.9 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -4135,9 +3473,9 @@
 		(in_pos_files yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "7d5c5599-9dab-47a0-baa3-adc03609dc53")
-		(property "Reference" "D5"
-			(at 137.033 43.18 0)
+		(uuid "7bad37d9-6a54-418d-b8d2-291dc18916d1")
+		(property "Reference" "D3"
+			(at 58.293 82.55 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4147,7 +3485,7 @@
 			)
 		)
 		(property "Value" "IR204A"
-			(at 137.033 45.72 0)
+			(at 58.293 85.09 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4156,8 +3494,8 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_THT:LED_D3.0mm_IRBlack"
-			(at 135.89 53.975 0)
+		(property "Footprint" "LED_THT:LED_D5.0mm"
+			(at 57.15 93.345 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4168,7 +3506,7 @@
 			)
 		)
 		(property "Datasheet" "http://www.everlight.com/file/ProductFile/IR204-A.pdf"
-			(at 137.16 49.53 0)
+			(at 58.42 88.9 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4179,7 +3517,7 @@
 			)
 		)
 		(property "Description" "Infrared LED , 3mm LED package"
-			(at 135.89 49.53 0)
+			(at 57.15 88.9 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4190,23 +3528,23 @@
 			)
 		)
 		(pin "1"
-			(uuid "f86a5cbc-ac6a-43c4-9499-335383a863e8")
+			(uuid "251a9b25-e66e-4778-abca-3c1335403ece")
 		)
 		(pin "2"
-			(uuid "2da5667d-7104-4e78-a546-fb448d2e3137")
+			(uuid "e7fdc621-f60e-410d-8e13-51b69f734025")
 		)
 		(instances
 			(project "VacumBlocks"
 				(path "/d5280a4e-7ab2-4f2c-968f-0131a4828335/643b316e-5f79-48c8-97a9-e12cba8f5fc9"
-					(reference "D5")
+					(reference "D3")
 					(unit 1)
 				)
 			)
 		)
 	)
 	(symbol
-		(lib_id "Device:R")
-		(at 125.73 102.87 90)
+		(lib_id "LED:IR204A")
+		(at 96.52 88.9 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -4215,9 +3553,9 @@
 		(in_pos_files yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "7d9d7812-8265-452b-bbd3-79a72f501f4a")
-		(property "Reference" "R14"
-			(at 125.73 96.52 90)
+		(uuid "821c4d5f-72b9-412d-8779-850ad753ecf5")
+		(property "Reference" "D7"
+			(at 97.663 82.55 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4226,8 +3564,8 @@
 				)
 			)
 		)
-		(property "Value" "R"
-			(at 125.73 99.06 90)
+		(property "Value" "IR204A"
+			(at 97.663 85.09 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4236,8 +3574,8 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_DIP:DIP-8_W7.62mm"
-			(at 125.73 104.648 90)
+		(property "Footprint" "LED_THT:LED_D5.0mm"
+			(at 96.52 93.345 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4247,8 +3585,8 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
-			(at 125.73 102.87 0)
+		(property "Datasheet" "http://www.everlight.com/file/ProductFile/IR204-A.pdf"
+			(at 97.79 88.9 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4258,8 +3596,8 @@
 				)
 			)
 		)
-		(property "Description" "Resistor"
-			(at 125.73 102.87 0)
+		(property "Description" "Infrared LED , 3mm LED package"
+			(at 96.52 88.9 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4268,17 +3606,17 @@
 					(size 1.27 1.27)
 				)
 			)
-		)
-		(pin "2"
-			(uuid "d8aedb7e-249f-4cc3-be4e-c266c942d326")
 		)
 		(pin "1"
-			(uuid "feca0710-dd01-4e76-86b3-10bcd2d38e86")
+			(uuid "1b8d68d4-18d4-400c-b527-23b5b3be7138")
+		)
+		(pin "2"
+			(uuid "12806746-74f8-4388-94cc-151ae200d735")
 		)
 		(instances
 			(project "VacumBlocks"
 				(path "/d5280a4e-7ab2-4f2c-968f-0131a4828335/643b316e-5f79-48c8-97a9-e12cba8f5fc9"
-					(reference "R14")
+					(reference "D7")
 					(unit 1)
 				)
 			)
@@ -4384,7 +3722,7 @@
 				)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "10k"
 			(at 46.99 45.72 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4394,7 +3732,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_DIP:DIP-8_W7.62mm"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal"
 			(at 46.99 51.308 90)
 			(hide yes)
 			(show_name no)
@@ -4437,6 +3775,166 @@
 			(project "VacumBlocks"
 				(path "/d5280a4e-7ab2-4f2c-968f-0131a4828335/643b316e-5f79-48c8-97a9-e12cba8f5fc9"
 					(reference "R1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 86.36 63.5 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "a009bc56-594e-4077-a469-7b3badd90385")
+		(property "Reference" "R6"
+			(at 86.36 57.15 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "10k"
+			(at 86.36 59.69 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal"
+			(at 86.36 65.278 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 86.36 63.5 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 86.36 63.5 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "0544171c-6dde-4397-b9e5-01f0ae6d1eb6")
+		)
+		(pin "1"
+			(uuid "b2bcf549-0a9c-41fd-8151-ba15661eb57e")
+		)
+		(instances
+			(project "VacumBlocks"
+				(path "/d5280a4e-7ab2-4f2c-968f-0131a4828335/643b316e-5f79-48c8-97a9-e12cba8f5fc9"
+					(reference "R6")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "LED:IR204A")
+		(at 182.88 90.17 180)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "a6c37db7-2ab1-4340-9d4a-c637c1f400ea")
+		(property "Reference" "D15"
+			(at 184.023 83.82 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "IR204A"
+			(at 184.023 86.36 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "LED_THT:LED_D5.0mm"
+			(at 182.88 94.615 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "http://www.everlight.com/file/ProductFile/IR204-A.pdf"
+			(at 184.15 90.17 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Infrared LED , 3mm LED package"
+			(at 182.88 90.17 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "464a545d-c377-4791-a11a-57adb39b2034")
+		)
+		(pin "2"
+			(uuid "0c099460-7c37-4e5e-8a62-947e5b7f211e")
+		)
+		(instances
+			(project "VacumBlocks"
+				(path "/d5280a4e-7ab2-4f2c-968f-0131a4828335/643b316e-5f79-48c8-97a9-e12cba8f5fc9"
+					(reference "D15")
 					(unit 1)
 				)
 			)
@@ -4522,7 +4020,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 125.73 63.5 90)
+		(at 86.36 88.9 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -4531,9 +4029,9 @@
 		(in_pos_files yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "af26201e-8519-4b25-b1c3-9c6badb0719a")
-		(property "Reference" "R6"
-			(at 125.73 57.15 90)
+		(uuid "ac690328-695d-454d-98b1-1a78b4d47c34")
+		(property "Reference" "R7"
+			(at 86.36 82.55 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4542,8 +4040,8 @@
 				)
 			)
 		)
-		(property "Value" "R"
-			(at 125.73 59.69 90)
+		(property "Value" "10k"
+			(at 86.36 85.09 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4552,8 +4050,8 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_DIP:DIP-8_W7.62mm"
-			(at 125.73 65.278 90)
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal"
+			(at 86.36 90.678 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4564,7 +4062,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 125.73 63.5 0)
+			(at 86.36 88.9 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4575,7 +4073,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 125.73 63.5 0)
+			(at 86.36 88.9 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4586,95 +4084,15 @@
 			)
 		)
 		(pin "2"
-			(uuid "381248f9-a79c-4852-ba1f-33c4f3c5edd0")
+			(uuid "e62eb886-a96e-4c41-afdc-6e0638b71737")
 		)
 		(pin "1"
-			(uuid "16dc0196-eee9-4102-9c32-6d0f057efe4a")
+			(uuid "36c5778a-bb76-4ffc-a7b6-8b3324d97e14")
 		)
 		(instances
 			(project "VacumBlocks"
 				(path "/d5280a4e-7ab2-4f2c-968f-0131a4828335/643b316e-5f79-48c8-97a9-e12cba8f5fc9"
-					(reference "R6")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R")
-		(at 125.73 88.9 90)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "b1628121-16d1-4cd8-9f29-b0dfaf1eb3e6")
-		(property "Reference" "R13"
-			(at 125.73 82.55 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "R"
-			(at 125.73 85.09 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Package_DIP:DIP-8_W7.62mm"
-			(at 125.73 90.678 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 125.73 88.9 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Resistor"
-			(at 125.73 88.9 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "84bd963e-e039-4862-b1c7-cdea0d3b0b85")
-		)
-		(pin "1"
-			(uuid "d0df2805-c10c-45fb-8b1c-6f1f5badeb06")
-		)
-		(instances
-			(project "VacumBlocks"
-				(path "/d5280a4e-7ab2-4f2c-968f-0131a4828335/643b316e-5f79-48c8-97a9-e12cba8f5fc9"
-					(reference "R13")
+					(reference "R7")
 					(unit 1)
 				)
 			)
@@ -4682,7 +4100,7 @@
 	)
 	(symbol
 		(lib_id "Device:D_Photo")
-		(at 57.15 102.87 180)
+		(at 182.88 104.14 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -4690,10 +4108,9 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "b673051d-a8aa-4670-b69a-df3882e27c23")
-		(property "Reference" "D10"
-			(at 58.1025 96.52 0)
+		(uuid "af6dd329-e919-46f0-b120-03879ac8ac06")
+		(property "Reference" "D16"
+			(at 183.8325 97.79 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4703,7 +4120,7 @@
 			)
 		)
 		(property "Value" "D_Photo"
-			(at 58.1025 99.06 0)
+			(at 183.8325 100.33 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4712,8 +4129,8 @@
 				)
 			)
 		)
-		(property "Footprint" "OptoDevice:Kodenshi_LG206D"
-			(at 58.42 102.87 0)
+		(property "Footprint" "LED_THT:LED_D5.0mm_IRBlack"
+			(at 183.642 114.808 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4724,7 +4141,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 58.42 102.87 0)
+			(at 184.15 104.14 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4735,7 +4152,7 @@
 			)
 		)
 		(property "Description" "Photodiode"
-			(at 57.15 102.87 0)
+			(at 182.88 104.14 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4746,15 +4163,95 @@
 			)
 		)
 		(pin "2"
-			(uuid "6ca671ae-8a22-4e34-8f04-ef01907fd151")
+			(uuid "346ab5d8-f164-4878-8955-c18e18b1b3c3")
 		)
 		(pin "1"
-			(uuid "83ae8bd6-059b-4d42-8145-7887c5c3f3d2")
+			(uuid "6a40eaf5-3842-4c12-9d99-c361f0a5ce7e")
 		)
 		(instances
 			(project "VacumBlocks"
 				(path "/d5280a4e-7ab2-4f2c-968f-0131a4828335/643b316e-5f79-48c8-97a9-e12cba8f5fc9"
-					(reference "D10")
+					(reference "D16")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 125.73 102.87 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "b90d35d3-c5f4-499d-afe8-2b89bc5943ac")
+		(property "Reference" "R12"
+			(at 125.73 96.52 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "10k"
+			(at 125.73 99.06 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal"
+			(at 125.73 104.648 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 125.73 102.87 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 125.73 102.87 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "f74378bd-8024-4c29-8f00-12ab0bd84b6c")
+		)
+		(pin "1"
+			(uuid "c6e85685-9cd3-4bb3-a183-cdb23addb2ae")
+		)
+		(instances
+			(project "VacumBlocks"
+				(path "/d5280a4e-7ab2-4f2c-968f-0131a4828335/643b316e-5f79-48c8-97a9-e12cba8f5fc9"
+					(reference "R12")
 					(unit 1)
 				)
 			)
@@ -4833,6 +4330,325 @@
 			(project "VacumBlocks"
 				(path "/d5280a4e-7ab2-4f2c-968f-0131a4828335/643b316e-5f79-48c8-97a9-e12cba8f5fc9"
 					(reference "#PWR016")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:D_Photo")
+		(at 182.88 64.77 180)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "c2ee9d7c-ee03-4187-8d52-2caf25a8e694")
+		(property "Reference" "D14"
+			(at 183.8325 58.42 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "D_Photo"
+			(at 183.8325 60.96 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "LED_THT:LED_D5.0mm_IRBlack"
+			(at 183.642 75.438 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 184.15 64.77 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Photodiode"
+			(at 182.88 64.77 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "f14d682d-22ca-484f-8634-d7f13185256c")
+		)
+		(pin "1"
+			(uuid "9db0dbbd-e787-4fce-82b4-337c74562cb5")
+		)
+		(instances
+			(project "VacumBlocks"
+				(path "/d5280a4e-7ab2-4f2c-968f-0131a4828335/643b316e-5f79-48c8-97a9-e12cba8f5fc9"
+					(reference "D14")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "LED:IR204A")
+		(at 135.89 88.9 180)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "c3c067cc-74b3-4846-9eff-1c3324a7d8d4")
+		(property "Reference" "D11"
+			(at 137.033 82.55 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "IR204A"
+			(at 137.033 85.09 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "LED_THT:LED_D5.0mm"
+			(at 135.89 93.345 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "http://www.everlight.com/file/ProductFile/IR204-A.pdf"
+			(at 137.16 88.9 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Infrared LED , 3mm LED package"
+			(at 135.89 88.9 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "4a320f46-ede1-422e-9350-b3af62b8de48")
+		)
+		(pin "2"
+			(uuid "cbb0fde7-49c9-4cdc-9c6a-cc8f6f1e22eb")
+		)
+		(instances
+			(project "VacumBlocks"
+				(path "/d5280a4e-7ab2-4f2c-968f-0131a4828335/643b316e-5f79-48c8-97a9-e12cba8f5fc9"
+					(reference "D11")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 125.73 49.53 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "c417d80c-5f69-4412-b7c7-c65e5e5b0a5a")
+		(property "Reference" "R9"
+			(at 125.73 43.18 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "10k"
+			(at 125.73 45.72 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal"
+			(at 125.73 51.308 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 125.73 49.53 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 125.73 49.53 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "3e359c38-ec4f-4bcf-8c78-16dfadc07535")
+		)
+		(pin "1"
+			(uuid "34c39c63-185f-4024-8a10-3742acd68bde")
+		)
+		(instances
+			(project "VacumBlocks"
+				(path "/d5280a4e-7ab2-4f2c-968f-0131a4828335/643b316e-5f79-48c8-97a9-e12cba8f5fc9"
+					(reference "R9")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 46.99 102.87 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "c6c07d96-9466-446e-ac32-a95fb8407d4a")
+		(property "Reference" "R4"
+			(at 46.99 96.52 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "10k"
+			(at 46.99 99.06 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal"
+			(at 46.99 104.648 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 46.99 102.87 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 46.99 102.87 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "1c3eadb8-cbb6-4be5-bc89-7055bbf7c0bd")
+		)
+		(pin "1"
+			(uuid "92e48052-8185-4cef-bc5a-311515d26aa9")
+		)
+		(instances
+			(project "VacumBlocks"
+				(path "/d5280a4e-7ab2-4f2c-968f-0131a4828335/643b316e-5f79-48c8-97a9-e12cba8f5fc9"
+					(reference "R4")
 					(unit 1)
 				)
 			)
@@ -4918,6 +4734,164 @@
 	)
 	(symbol
 		(lib_id "Device:D_Photo")
+		(at 57.15 102.87 180)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "d262d157-69ae-4775-b552-e5f3bc9d9635")
+		(property "Reference" "D4"
+			(at 58.1025 96.52 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "D_Photo"
+			(at 58.1025 99.06 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "LED_THT:LED_D5.0mm_IRBlack"
+			(at 57.912 113.538 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 58.42 102.87 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Photodiode"
+			(at 57.15 102.87 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "21382523-0630-4574-aa23-c1d8d6a3dfb2")
+		)
+		(pin "1"
+			(uuid "8859aa3e-a9f5-495c-97ad-cd7f85773df0")
+		)
+		(instances
+			(project "VacumBlocks"
+				(path "/d5280a4e-7ab2-4f2c-968f-0131a4828335/643b316e-5f79-48c8-97a9-e12cba8f5fc9"
+					(reference "D4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:D_Photo")
+		(at 135.89 102.87 180)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "d9242076-df61-4435-bd1b-02588240abf2")
+		(property "Reference" "D12"
+			(at 136.8425 96.52 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "D_Photo"
+			(at 136.8425 99.06 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "LED_THT:LED_D5.0mm_IRBlack"
+			(at 136.652 113.538 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 137.16 102.87 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Photodiode"
+			(at 135.89 102.87 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "dcae40af-2f7d-449e-9bff-b32b7a8cd47a")
+		)
+		(pin "1"
+			(uuid "f528f0c7-58f8-437e-96e8-26bd8bdfe272")
+		)
+		(instances
+			(project "VacumBlocks"
+				(path "/d5280a4e-7ab2-4f2c-968f-0131a4828335/643b316e-5f79-48c8-97a9-e12cba8f5fc9"
+					(reference "D12")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:D_Photo")
 		(at 57.15 63.5 180)
 		(unit 1)
 		(body_style 1)
@@ -4926,8 +4900,7 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "d1836240-9e82-405a-9ce5-85ec9035da90")
+		(uuid "dda480db-af99-4207-bff3-9170e2c29eb9")
 		(property "Reference" "D2"
 			(at 58.1025 57.15 0)
 			(show_name no)
@@ -4948,8 +4921,8 @@
 				)
 			)
 		)
-		(property "Footprint" "OptoDevice:Kodenshi_LG206D"
-			(at 58.42 63.5 0)
+		(property "Footprint" "LED_THT:LED_D5.0mm_IRBlack"
+			(at 57.912 74.168 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4982,10 +4955,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "55849e99-2897-4643-8a6d-f23fc540f8d1")
+			(uuid "ae782621-7823-4601-aec7-b350dc07c55b")
 		)
 		(pin "1"
-			(uuid "a1d72761-f39c-4348-a82c-85da6359892e")
+			(uuid "77a35fba-fee1-4e71-9f1a-0721c3f1057b")
 		)
 		(instances
 			(project "VacumBlocks"
@@ -4998,7 +4971,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 172.72 64.77 90)
+		(at 46.99 88.9 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -5007,9 +4980,9 @@
 		(in_pos_files yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "ddecbcc6-0ae7-4fa8-9868-e8110f54835a")
-		(property "Reference" "R8"
-			(at 172.72 58.42 90)
+		(uuid "e7113605-b04c-4184-973e-f4f6ec2a48b3")
+		(property "Reference" "R3"
+			(at 46.99 82.55 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5018,8 +4991,8 @@
 				)
 			)
 		)
-		(property "Value" "R"
-			(at 172.72 60.96 90)
+		(property "Value" "10k"
+			(at 46.99 85.09 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5028,8 +5001,8 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_DIP:DIP-8_W7.62mm"
-			(at 172.72 66.548 90)
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal"
+			(at 46.99 90.678 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5040,7 +5013,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 172.72 64.77 0)
+			(at 46.99 88.9 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5051,7 +5024,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 172.72 64.77 0)
+			(at 46.99 88.9 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5062,23 +5035,23 @@
 			)
 		)
 		(pin "2"
-			(uuid "adaaf80b-fe6a-4c1f-b4e5-1dcdf188c35d")
+			(uuid "fc0af20c-0855-4eb8-b541-c76f1ac01530")
 		)
 		(pin "1"
-			(uuid "b8c74246-74bd-4a2d-b9df-1c499d9e84aa")
+			(uuid "37006ed9-9c6d-4a18-b4f7-76550d655fa3")
 		)
 		(instances
 			(project "VacumBlocks"
 				(path "/d5280a4e-7ab2-4f2c-968f-0131a4828335/643b316e-5f79-48c8-97a9-e12cba8f5fc9"
-					(reference "R8")
+					(reference "R3")
 					(unit 1)
 				)
 			)
 		)
 	)
 	(symbol
-		(lib_id "Device:D_Photo")
-		(at 96.52 63.5 180)
+		(lib_id "Device:R")
+		(at 46.99 63.5 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -5087,9 +5060,9 @@
 		(in_pos_files yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "e3a47382-8874-43d0-acbe-107c83b03df0")
-		(property "Reference" "D4"
-			(at 97.4725 57.15 0)
+		(uuid "ecdeccbd-e79d-4919-ac12-87d93fab87d6")
+		(property "Reference" "R2"
+			(at 46.99 57.15 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5098,8 +5071,8 @@
 				)
 			)
 		)
-		(property "Value" "D_Photo"
-			(at 97.4725 59.69 0)
+		(property "Value" "10k"
+			(at 46.99 59.69 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5108,8 +5081,8 @@
 				)
 			)
 		)
-		(property "Footprint" "OptoDevice:Kodenshi_LG206D"
-			(at 97.79 63.5 0)
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal"
+			(at 46.99 65.278 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5120,7 +5093,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 97.79 63.5 0)
+			(at 46.99 63.5 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5130,8 +5103,8 @@
 				)
 			)
 		)
-		(property "Description" "Photodiode"
-			(at 96.52 63.5 0)
+		(property "Description" "Resistor"
+			(at 46.99 63.5 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5142,95 +5115,15 @@
 			)
 		)
 		(pin "2"
-			(uuid "879b42fb-fee0-44a8-8839-5ca34e7280b7")
+			(uuid "6be2ff45-9fc4-4721-8490-c269952e647e")
 		)
 		(pin "1"
-			(uuid "9783139b-fdfb-442f-bc05-398d71fbcb04")
+			(uuid "e3135840-da90-4ed3-b704-c8ce10a0e657")
 		)
 		(instances
 			(project "VacumBlocks"
 				(path "/d5280a4e-7ab2-4f2c-968f-0131a4828335/643b316e-5f79-48c8-97a9-e12cba8f5fc9"
-					(reference "D4")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "LED:IR204A")
-		(at 182.88 90.17 180)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "ee2b6ffd-265d-4d68-b6f4-0ed530f0fb43")
-		(property "Reference" "D15"
-			(at 184.023 83.82 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "IR204A"
-			(at 184.023 86.36 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "LED_THT:LED_D3.0mm_IRBlack"
-			(at 182.88 94.615 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" "http://www.everlight.com/file/ProductFile/IR204-A.pdf"
-			(at 184.15 90.17 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Infrared LED , 3mm LED package"
-			(at 182.88 90.17 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "ff05e7ef-8def-48c8-8075-1f7ba469e919")
-		)
-		(pin "2"
-			(uuid "71b65eda-ec9c-4f01-a92c-690e3d13a8a4")
-		)
-		(instances
-			(project "VacumBlocks"
-				(path "/d5280a4e-7ab2-4f2c-968f-0131a4828335/643b316e-5f79-48c8-97a9-e12cba8f5fc9"
-					(reference "D15")
+					(reference "R2")
 					(unit 1)
 				)
 			)
@@ -5316,7 +5209,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 125.73 49.53 90)
+		(at 86.36 102.87 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -5325,9 +5218,9 @@
 		(in_pos_files yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "f4620357-b736-4435-82f1-d11a3f5e81b6")
-		(property "Reference" "R5"
-			(at 125.73 43.18 90)
+		(uuid "fb4c58b5-f3f1-4e86-928f-7ea3688148c3")
+		(property "Reference" "R8"
+			(at 86.36 96.52 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5336,8 +5229,8 @@
 				)
 			)
 		)
-		(property "Value" "R"
-			(at 125.73 45.72 90)
+		(property "Value" "10k"
+			(at 86.36 99.06 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5346,8 +5239,8 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_DIP:DIP-8_W7.62mm"
-			(at 125.73 51.308 90)
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal"
+			(at 86.36 104.648 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5358,7 +5251,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 125.73 49.53 0)
+			(at 86.36 102.87 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5369,7 +5262,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 125.73 49.53 0)
+			(at 86.36 102.87 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5380,15 +5273,15 @@
 			)
 		)
 		(pin "2"
-			(uuid "ea767761-4559-4821-8332-eabc395e7cd4")
+			(uuid "043c92dd-fb10-458b-9b19-820006e17fb1")
 		)
 		(pin "1"
-			(uuid "d4f98d14-79d7-4340-8d05-5596e8416f40")
+			(uuid "1a73633e-23f8-4f07-9167-11549dbf5521")
 		)
 		(instances
 			(project "VacumBlocks"
 				(path "/d5280a4e-7ab2-4f2c-968f-0131a4828335/643b316e-5f79-48c8-97a9-e12cba8f5fc9"
-					(reference "R5")
+					(reference "R8")
 					(unit 1)
 				)
 			)
@@ -5396,7 +5289,7 @@
 	)
 	(symbol
 		(lib_id "Device:D_Photo")
-		(at 182.88 104.14 180)
+		(at 96.52 102.87 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -5404,90 +5297,9 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "fd1d880d-bcf8-4744-abe3-9122af40e0c5")
-		(property "Reference" "D16"
-			(at 183.8325 97.79 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "D_Photo"
-			(at 183.8325 100.33 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "OptoDevice:Kodenshi_LG206D"
-			(at 184.15 104.14 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 184.15 104.14 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Photodiode"
-			(at 182.88 104.14 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "f032c89a-4a62-4cac-bdd5-cb1e127bd061")
-		)
-		(pin "1"
-			(uuid "95d8c5c3-565d-4b80-a2cc-1617d28febde")
-		)
-		(instances
-			(project "VacumBlocks"
-				(path "/d5280a4e-7ab2-4f2c-968f-0131a4828335/643b316e-5f79-48c8-97a9-e12cba8f5fc9"
-					(reference "D16")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:D_Photo")
-		(at 182.88 64.77 180)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "feab2c1d-f675-403b-8cfb-f881d51ff8d6")
+		(uuid "fc58844b-2f16-47f6-8804-f2de19011754")
 		(property "Reference" "D8"
-			(at 183.8325 58.42 0)
+			(at 97.4725 96.52 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5497,7 +5309,7 @@
 			)
 		)
 		(property "Value" "D_Photo"
-			(at 183.8325 60.96 0)
+			(at 97.4725 99.06 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5506,8 +5318,8 @@
 				)
 			)
 		)
-		(property "Footprint" "OptoDevice:Kodenshi_LG206D"
-			(at 184.15 64.77 0)
+		(property "Footprint" "LED_THT:LED_D5.0mm_IRBlack"
+			(at 97.282 113.538 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5518,7 +5330,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 184.15 64.77 0)
+			(at 97.79 102.87 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5529,7 +5341,7 @@
 			)
 		)
 		(property "Description" "Photodiode"
-			(at 182.88 64.77 0)
+			(at 96.52 102.87 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5540,15 +5352,175 @@
 			)
 		)
 		(pin "2"
-			(uuid "acc7a864-0f65-424b-953e-d1e588503e98")
+			(uuid "76849348-50c1-4db1-8001-1ec16d314b9f")
 		)
 		(pin "1"
-			(uuid "352f0692-6e48-4f98-bd4a-de5879fbeeaf")
+			(uuid "bbd61333-4ccf-4bf4-8e2f-dcf2b144c3e0")
 		)
 		(instances
 			(project "VacumBlocks"
 				(path "/d5280a4e-7ab2-4f2c-968f-0131a4828335/643b316e-5f79-48c8-97a9-e12cba8f5fc9"
 					(reference "D8")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 125.73 88.9 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "fcee2154-73af-41d2-a819-18b5d35d8e46")
+		(property "Reference" "R11"
+			(at 125.73 82.55 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "10k"
+			(at 125.73 85.09 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal"
+			(at 125.73 90.678 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 125.73 88.9 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 125.73 88.9 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "845fbab0-8ddc-49bc-b447-ac40d55fceb7")
+		)
+		(pin "1"
+			(uuid "602e3e2b-af53-4e6c-9f7c-09c5455ea846")
+		)
+		(instances
+			(project "VacumBlocks"
+				(path "/d5280a4e-7ab2-4f2c-968f-0131a4828335/643b316e-5f79-48c8-97a9-e12cba8f5fc9"
+					(reference "R11")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 172.72 104.14 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "fe760c21-3e6c-4c80-a85a-7d20079d27e6")
+		(property "Reference" "R16"
+			(at 172.72 97.79 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "10k"
+			(at 172.72 100.33 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal"
+			(at 172.72 105.918 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 172.72 104.14 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 172.72 104.14 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "f0e6b15e-3d24-4d9a-9e61-cf58071a543b")
+		)
+		(pin "1"
+			(uuid "af88f2c3-5b58-4d35-b5c5-505ab4874218")
+		)
+		(instances
+			(project "VacumBlocks"
+				(path "/d5280a4e-7ab2-4f2c-968f-0131a4828335/643b316e-5f79-48c8-97a9-e12cba8f5fc9"
+					(reference "R16")
 					(unit 1)
 				)
 			)
