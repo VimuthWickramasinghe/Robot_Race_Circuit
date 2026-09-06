@@ -13,3 +13,10 @@ _autosave-*
 # Manufacturing outputs (optional - usually better to regenerate)
 *.gbr
 *.drl
+~*
+/.history/
+
+# KiCad local history exclusions. Edit to add your own rules.
+fp-info-cache
+*-backups/
+
