@@ -1983,7 +1983,7 @@
 				)
 			)
 		)
-		(property "Value" "10k"
+		(property "Value" "220"
 			(at 172.72 60.96 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2771,7 +2771,7 @@
 				)
 			)
 		)
-		(property "Value" "10k"
+		(property "Value" "220"
 			(at 172.72 86.36 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3086,7 +3086,7 @@
 				)
 			)
 		)
-		(property "Value" "10k"
+		(property "Value" "220"
 			(at 172.72 46.99 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3166,7 +3166,7 @@
 				)
 			)
 		)
-		(property "Value" "10k"
+		(property "Value" "220"
 			(at 86.36 45.72 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3722,7 +3722,7 @@
 				)
 			)
 		)
-		(property "Value" "10k"
+		(property "Value" "220"
 			(at 46.99 45.72 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3802,7 +3802,7 @@
 				)
 			)
 		)
-		(property "Value" "10k"
+		(property "Value" "220"
 			(at 86.36 59.69 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4040,7 +4040,7 @@
 				)
 			)
 		)
-		(property "Value" "10k"
+		(property "Value" "220"
 			(at 86.36 85.09 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4199,7 +4199,7 @@
 				)
 			)
 		)
-		(property "Value" "10k"
+		(property "Value" "220"
 			(at 125.73 99.06 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4516,7 +4516,7 @@
 				)
 			)
 		)
-		(property "Value" "10k"
+		(property "Value" "220"
 			(at 125.73 45.72 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4596,7 +4596,7 @@
 				)
 			)
 		)
-		(property "Value" "10k"
+		(property "Value" "220"
 			(at 46.99 99.06 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4991,7 +4991,7 @@
 				)
 			)
 		)
-		(property "Value" "10k"
+		(property "Value" "220"
 			(at 46.99 85.09 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5229,7 +5229,7 @@
 				)
 			)
 		)
-		(property "Value" "10k"
+		(property "Value" "220"
 			(at 86.36 99.06 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5388,7 +5388,7 @@
 				)
 			)
 		)
-		(property "Value" "10k"
+		(property "Value" "220"
 			(at 125.73 85.09 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5468,7 +5468,7 @@
 				)
 			)
 		)
-		(property "Value" "10k"
+		(property "Value" "220"
 			(at 172.72 100.33 90)
 			(show_name no)
 			(do_not_autoplace no)
